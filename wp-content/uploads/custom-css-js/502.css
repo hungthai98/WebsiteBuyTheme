@@ -1,0 +1,19 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+#login h1 a {
+background: url("<a href="http://quocmarketing.com/wp-content/themes/henry/images/logo.png">images/logo.png</a>") no-repeat !important;
+}
+.login #nav a, .login #backtoblog a {color:#fff!important;text-shadow:none;text-decoration:none}
+.login #nav a:hover, .login #backtoblog a:hover {color:#ccc!important;</style>
+<!-- end Simple Custom CSS and JS -->
